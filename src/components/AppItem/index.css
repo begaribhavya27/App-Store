@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.app {
+  background-color: white;
+  border-style: none;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+.app-name {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+  font-size: 18px;
+}
+.app-img {
+  width: 50px;
+}
